@@ -1,6 +1,14 @@
 <img width="1200" height="560" alt="download (2)" src="https://github.com/user-attachments/assets/e62a5292-6ca0-4ddc-935e-e7ed84120ba2" />
 
-<h2 align="left">I code with</h2>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-nemoto-743049407/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+<h2 align="left">Technologies</h2>
 
 ###
 
