@@ -11,24 +11,49 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ojnemoto?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:ojnemoto?theme=booru-helltaker&padding=7&scale=0.7&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<h2 align="left">Technologies</h2>
+---
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<h1 align="left">gameDev em Treinamento</h1>
+
+###
+
+<h4 align="left">Meu nome é João Pedro tenho 17 anos<br>atualmente estou estudando a linguagem c# <br>e estudando a engine unity para criacao de jogos 2D/3D</h4>
+
+###
+
+<h2 align="center">Technologies</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+
+---
+
+###
+
+###
+<h3>Statistics</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ojnemoto&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
