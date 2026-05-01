@@ -8,6 +8,14 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:ojnemoto?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 <h2 align="left">Technologies</h2>
 
 ###
